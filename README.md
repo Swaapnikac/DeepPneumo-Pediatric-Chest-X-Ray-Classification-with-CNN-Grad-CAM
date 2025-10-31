@@ -1,6 +1,5 @@
 # DeepPneumo – Pediatric Chest X-Ray Classification with CNN & Grad-CAM  
-
-### Northeastern University | INFO 7410 – Advanced Medical Device Software Engineering  
+  
 **Technologies:** Python | PyTorch | CNN | ResNet | Grad-CAM | NumPy | Matplotlib  
 
 ---
