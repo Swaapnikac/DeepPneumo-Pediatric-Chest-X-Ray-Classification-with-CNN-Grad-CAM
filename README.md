@@ -104,6 +104,6 @@ Grad-CAM visualization highlights the lung regions with dense opacities that inf
 **Cherukuru Swaapnika Chowdary**  
 Graduate Student, Northeastern University  
 Boston, Massachusetts, USA  
-[LinkedIn](https://www.linkedin.com/in/swaapnika-cherukuru)  
+https://www.linkedin.com/in/swaapnika-cherukuru-926990228/
 
 ---
